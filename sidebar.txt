@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mnj:home|Door43 (mnj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mnj|d43-mnj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mnj/archive/master.zip|d43-mnj.zip]]
+
+**Recent Changes**
+{{changes>ns = mnj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mnj|Ethnologue data]]
+
